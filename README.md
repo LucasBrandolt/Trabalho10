@@ -11,7 +11,7 @@ Tem como função principal ler numeros inteiros entre 0 e 5000 que são inserid
 
 
 ### Como Compilar
-Abra o terminal ou prompt de comando e navegue até a pasta do arquivo que deseja executar, depois utilize este comando:
+Abra o terminal ou prompt de comando e navegue até a pasta do arquivo onde está o codigo que deseja executar, depois utilize este comando:
 
 <code>
 <span style="color: tomato">»</span> gcc -o trabalho10 Trabalho10.c
